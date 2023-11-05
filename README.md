@@ -1,7 +1,7 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/84/b0/1f/84b01fb56254821ccf95f0fc91c4ed2c.gif">
 HELLO
 <br>
-<h2><font style="font-family:monospace;">I'm Omar Muhammad aka Frosty And i'm Bug Bounty Hunter.</font></h2>
+<h3><font style="font-family:monospace;">I'm Omar Muhammad aka Frosty And i'm Bug Bounty Hunter.</font></h3>
 
 
 #<h2><font color="red">I Know:</font></h2>
