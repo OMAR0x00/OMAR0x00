@@ -1,5 +1,6 @@
 
-HELLO i'm Omar Muhammad aka 'Frosty' And i'm Bug Bounty Hunter. 
+HELLO
+  i'm Omar Muhammad aka 'Frosty' And i'm Bug Bounty Hunter. 
 
 
 # My Skills: 
